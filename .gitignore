@@ -26,3 +26,20 @@ build/Release
 # Dependency directory
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
 node_modules
+
+/node_modules
+
+/vendor
+.idea/*
+.idea/
+/.vscode
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/bootstrap/compiled.php
+
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
